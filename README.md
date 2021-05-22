@@ -4,4 +4,4 @@ Two Player Pong,
 Flappy Bird,
 Cookie Clicker,
 Brick Breaker,
-Snake,
+Snake
